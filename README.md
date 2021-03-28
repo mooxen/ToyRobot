@@ -8,6 +8,6 @@ provided inputs:
  - example3.txt  expected output : 4,0,EAST 
  - example3.txt  expected output : Unrecognized token MOvE
  
- ##Tests
+ ## Tests
  
  run `src/Tests/TestMain.java` to complete a selection of tests, all defined in the `src/Tests/*` folders 
